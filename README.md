@@ -1,4 +1,3 @@
-# README-testing
 # 🏦 BankLedger: Financial Immutability Engine
 
 > A robust, append-only financial ledger microservice enforcing strict data immutability through Clean Architecture and Aspect-Oriented Programming (AOP).
