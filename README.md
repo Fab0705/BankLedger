@@ -79,7 +79,7 @@ public void preventDeletion() {
 ### Using Docker (Recommended)
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/yourusername/BankLedger.git](https://github.com/Fab0705/BankLedger.git)
+   git clone https://github.com/Fab0705/BankLedger.git
    ```
 2. Build and run using Docker Compose (includes PostgreSQL):
    ```bash
